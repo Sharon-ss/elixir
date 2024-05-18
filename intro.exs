@@ -1,0 +1,5 @@
+IO.puts """
+hello
+world
+!
+"""
